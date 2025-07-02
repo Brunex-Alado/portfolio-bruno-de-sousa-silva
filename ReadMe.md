@@ -15,10 +15,10 @@ Modelo 1.0 de Portfólio - Bruno de Sousa Silva - Brunex Alado
 
 - Link: [Portfólio Bruno de Sousa](https://siteupado/)
 
-![site portfolio print](./print01.png)
-![site portfolio print](./print02.png)
+![site portfolio print](.assets/print01.png)
+![site portfolio print](.assets/print02.png)
 
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT LICENSE - veja o arquivo [LICENSE.md](endereçoNoGithub.com) para detalhes.
+Este projeto está sob a licença MIT LICENSE - veja o arquivo [LICENSE](endereçoNoGithub.com) para detalhes.
