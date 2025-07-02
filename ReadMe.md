@@ -13,12 +13,21 @@ Modelo 1.0 de Portfólio - Bruno de Sousa Silva - Brunex Alado
 
 ## ⚙️ Prévia do Projeto
 
-- Link: [Portfólio Bruno de Sousa](https://siteupado/)
+- Link: [Portfólio Bruno de Sousa](https://portfolio-bruno-de-sousa-silva.vercel.app/)
 
-![site portfolio print](.assets/print01.png)
-![site portfolio print](.assets/print02.png)
+![site portfolio print](https://raw.githubusercontent.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/refs/heads/main/img/print01.png)
+![site portfolio print](https://raw.githubusercontent.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/refs/heads/main/img/print02.png)
+![site portfolio print](https://raw.githubusercontent.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/refs/heads/main/img/responsivo01.jpg)
+![site portfolio print](https://raw.githubusercontent.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/refs/heads/main/img/responsivo02.jpg)
+![site portfolio print](https://github.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/blob/main/img/responsivo03.jpg)
+![site portfolio print](https://raw.githubusercontent.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/refs/heads/main/img/responsivo04.jpg)
+![site portfolio print](https://raw.githubusercontent.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/refs/heads/main/img/responsivo05.jpg)
+![site portfolio print](https://github.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/blob/main/img/responsivo06.jpg)
+![site portfolio print](https://raw.githubusercontent.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/refs/heads/main/img/responsivo07.jpg)
+![site portfolio print](https://raw.githubusercontent.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/refs/heads/main/img/responsivo08.jpg)
+![site portfolio print](https://raw.githubusercontent.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/refs/heads/main/img/responsivo09.jpg)
 
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT LICENSE - veja o arquivo [LICENSE](endereçoNoGithub.com) para detalhes.
+Este projeto está sob a licença MIT LICENSE - veja o arquivo [LICENSE](https://github.com/Brunex-Alado/portfolio-bruno-de-sousa-silva/blob/main/LICENSE) para detalhes.
